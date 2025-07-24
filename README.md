@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M Akhil Sai</h1>
-<h3 align="center">Tech Enthusiast | Full Stack Developer | Machine Learning Beginner</h3>
+<h3 align="center">Data Science Enthusiast | Power BI Developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil123&label=Profile%20views&color=0e75b6&style=flat" alt="akhil123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AKHIL377&label=Profile%20views&color=0e75b6&style=flat" alt="AKHIL377" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
 
