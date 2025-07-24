@@ -27,11 +27,11 @@
 ### 📊 GitHub Stats:
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhil123&show_icons=true&locale=en&layout=compact" alt="akhil123" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AKHIL377&show_icons=true&locale=en&layout=compact" alt="AKHIL377" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akhil123&show_icons=true&locale=en" alt="akhil123" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AKHIL377&show_icons=true&locale=en" alt="AKHIL377" />
 </p>
 
 ---
@@ -39,5 +39,5 @@
 ### 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akhil123&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AKHIL377&theme=tokyonight" />
 </p>
