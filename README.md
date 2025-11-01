@@ -40,5 +40,5 @@
 ### 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AKHIL377&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AKHIL377&show_icons=true&theme=tokyonight"/>
 </p>
