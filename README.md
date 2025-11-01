@@ -27,8 +27,6 @@
 
 ### 📊 GitHub Stats:
 
-### 📊 GitHub Stats:
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AKHIL377&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHIL377&layout=compact&theme=tokyonight" alt="Top languages" height="160"/>
@@ -39,5 +37,5 @@
 ### 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AKHIL377&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AKHIL377&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
