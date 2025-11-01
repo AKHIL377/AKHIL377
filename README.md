@@ -27,12 +27,11 @@
 
 ### 📊 GitHub Stats:
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AKHIL377&show_icons=true&locale=en&layout=compact" alt="AKHIL377" />
-</p>
+### 📊 GitHub Stats:
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AKHIL377&show_icons=true&locale=en" alt="AKHIL377" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AKHIL377&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHIL377&layout=compact&theme=tokyonight" alt="Top languages" height="160"/>
 </p>
 
 ---
